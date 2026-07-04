@@ -97,7 +97,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Эдмайр Вега",
@@ -185,7 +188,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Эдмайр Вега",
@@ -258,7 +264,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Эдмайр Вега",
@@ -352,7 +361,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Эдмайр Вега",
@@ -436,7 +448,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Эдмайр Вега",

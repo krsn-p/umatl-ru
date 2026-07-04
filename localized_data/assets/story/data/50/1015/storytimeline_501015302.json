@@ -70,7 +70,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Т.М. Опера О",
@@ -141,7 +144,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Т.М. Опера О",
@@ -199,7 +205,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Т.М. Опера О",
@@ -251,7 +260,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Т.М. Опера О",
@@ -291,7 +303,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Т.М. Опера О",

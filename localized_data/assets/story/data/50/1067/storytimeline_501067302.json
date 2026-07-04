@@ -69,7 +69,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Сатоно Даймонд",
@@ -140,7 +143,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Сатоно Даймонд",
@@ -201,7 +207,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Сатоно Даймонд",
@@ -264,7 +273,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Сатоно Даймонд",
@@ -312,7 +324,10 @@
         },
         {
             "name": "Монолог",
-            "text": "Вы получили: <itemname>"
+            "text": "Вы получили: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
         },
         {
             "name": "Сатоно Даймонд",
